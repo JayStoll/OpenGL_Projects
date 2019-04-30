@@ -1,0 +1,38 @@
+Running the program
+
+    1) Extract files into directory of choice
+    2) cd to directory from terminal
+    3) compile the program with command 'make'
+    4) run the program with command './robotgame'
+    5) press 'x' to exit game
+    6) clean compiler files with command 'make clean'
+
+In-game actions:
+
+    Character:
+        'z' = push the robot forward
+        'a' = turn the robot right
+        'q' = turn the robot left
+        'r' = return the robot to origin
+        'F1' = robot head to face forward
+        'F2' = turn head right (hold)
+        'F3' = turn head left (hold)
+
+    Game:
+        'o' = toggle orthographic view on/off
+        'p' = pause the game
+        'x' = exit the game
+
+    
+    Camera:
+        'F4' = return to default lookAt
+        
+        'F5' = left shoulder camera view
+        'F6' = right shoulder camera view
+        'F7' = front left camera view
+        'F8' = front right camera view
+
+        'F9' = left shoulder camera view (further)
+        'F10' = right shoulder camera view (further)
+        'F11' = front left camera view (further)
+        'F12' = front right camera view (further)
